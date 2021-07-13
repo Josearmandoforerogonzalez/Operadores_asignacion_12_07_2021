@@ -1,4 +1,4 @@
-adision
+// adision
 let numUno = parseInt(prompt("esto es una suma, ingrese un valor"))
 let numDos = parseInt(prompt("esto es una suma, ingrese el segundo  valor"))
 numUno+=numDos
