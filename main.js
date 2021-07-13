@@ -1,8 +1,8 @@
-// adision
-// let numUno = parseInt(prompt("esto es una suma, ingrese un valor"))
-// let numDos = parseInt(prompt("esto es una suma, ingrese el segundo  valor"))
-// numUno+=numDos
-// alert("el resultado de tu suma es " + numUno)
+adision
+let numUno = parseInt(prompt("esto es una suma, ingrese un valor"))
+let numDos = parseInt(prompt("esto es una suma, ingrese el segundo  valor"))
+numUno+=numDos
+alert("el resultado de tu suma es " + numUno)
 
 // sustraccion
 // bender rodriguez
